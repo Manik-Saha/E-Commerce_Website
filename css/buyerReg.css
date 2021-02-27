@@ -1,0 +1,9 @@
+.header{
+    text-align: left;
+    background-color:  rgb(119, 54, 54);
+    font-size: 15px;
+    padding: 10px;
+}
+.header h2{
+    color: cornsilk;
+}
